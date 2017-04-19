@@ -1,0 +1,1 @@
+cmd_/home/farsight/linux_system/zbzhuang/irq/irq.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/farsight/linux_system/kernel/linux-3.0.8/scripts/module-common.lds --build-id  -o /home/farsight/linux_system/zbzhuang/irq/irq.ko /home/farsight/linux_system/zbzhuang/irq/irq.o /home/farsight/linux_system/zbzhuang/irq/irq.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/farsight/linux_system/zbzhuang/1st/mutil_complie/hello.o := arm-none-linux-gnueabi-ld -EL    -r -o /home/farsight/linux_system/zbzhuang/1st/mutil_complie/hello.o /home/farsight/linux_system/zbzhuang/1st/mutil_complie/haha.o 

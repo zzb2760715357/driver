@@ -1,0 +1,3 @@
+0x00000000	register_test_notifier	/home/farsight/linux_system/zbzhuang/callback/buildchain	(unknown)
+0x00000000	test_notifier_call_chain	/home/farsight/linux_system/zbzhuang/callback/buildchain	(unknown)
+0x00000000	unregister_test_notifier	/home/farsight/linux_system/zbzhuang/callback/buildchain	(unknown)
